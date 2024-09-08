@@ -1,0 +1,1 @@
+# GUI-Trade-Log-Extractor
